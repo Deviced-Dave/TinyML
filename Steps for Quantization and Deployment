@@ -1,7 +1,0 @@
-# Quantization
-
-For this project, Quantization Aware Training was carried out on Kaggle Notebooks as there are various GPUs available for use.
-Also, Tensorflow was used as the preferred framework to create models and carry out inferencing.
-
-Here are a few points that should be considered before attempting quantization aware training of a model.
-- Make use of GPUs available as Kaggle Notebooks or it will throw error everytime quant
